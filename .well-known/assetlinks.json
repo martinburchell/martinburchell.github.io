@@ -1,8 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : {
-        "namespace": "android_app",
-        "package_name": "io.github.martinburchell.urlhandler",
-        "sha256_cert_fingerprints": ["22:F4:07:40:78:AD:6C:77:8C:88:30:70:95:78:8F:32:90:86:B7:3C:62:06:1A:67:2A:86:4D:9E:F0:2D:47:E0"]
-    }
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.martinburchell.urlhandler",
+    "sha256_cert_fingerprints":
+    ["1B:1E:46:22:A9:30:CA:B0:A7:24:4D:8F:22:5A:02:43:C2:6B:4F:82:17:4D:AF:3A:DE:9B:88:D8:46:00:74:DB"]
+  }
 }]
