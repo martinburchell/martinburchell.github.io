@@ -1,8 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : {
-        "namespace": "android_app",
-        "package_name": "org.camcops.camcops",
-        "sha256_cert_fingerprints": ["22:F4:07:40:78:AD:6C:77:8C:88:30:70:95:78:8F:32:90:86:B7:3C:62:06:1A:67:2A:86:4D:9E:F0:2D:47:E0"]
-    }
-}]
