@@ -65,7 +65,7 @@ export default class Advent extends Sprite {
 
   *whenIReceiveAdvent() {
     this.effects.ghost = 100;
-    this.costume = "20251029_143313 (Large)";
+    this.costume = "costume1";
     this.visible = true;
     for (let i = 0; i < 9; i++) {
       for (let i = 0; i < 8; i++) {

@@ -190,7 +190,7 @@ const sprites = {
     rotationStyle: Sprite.RotationStyle.ALL_AROUND,
     costumeNumber: 10,
     size: 100,
-    visible: true,
+    visible: false,
     layerOrder: 21,
   }),
   Easter: new Easter({
@@ -278,9 +278,9 @@ const sprites = {
     y: 0,
     direction: 90,
     rotationStyle: Sprite.RotationStyle.ALL_AROUND,
-    costumeNumber: 9,
+    costumeNumber: 8,
     size: 100,
-    visible: false,
+    visible: true,
     layerOrder: 25,
   }),
 };
