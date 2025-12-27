@@ -13,7 +13,3 @@ html, body {
   aspect-ratio: 4/3;
   margin: auto;
 }
-
-svg text {
-  font-family: Arial, Helvetica, "Liberation Sans", "DejaVu Sans", sans-serif !important;
-}
