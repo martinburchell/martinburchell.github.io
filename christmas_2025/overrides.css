@@ -7,8 +7,8 @@ html, body {
 }
 
 #project {
-  width: 90vw !important;
   height: auto !important;
+  width: 60vw !important;
 
   aspect-ratio: 4/3;
   margin: auto;
